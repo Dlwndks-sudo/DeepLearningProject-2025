@@ -1,3 +1,6 @@
+## License
+This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
+
 # 성림학사 세탁기 사용량 예측 AI
 
 **1. 서론**
